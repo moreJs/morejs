@@ -1,0 +1,23 @@
+{
+  "name": "morejs",
+  "version": "1.0.0",
+  "description": " a mini babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moreJs/morejs.git"
+  },
+  "keywords": [
+    "mini",
+    "babel"
+  ],
+  "author": "huangjianlei.cool@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moreJs/morejs/issues"
+  },
+  "homepage": "https://github.com/moreJs/morejs#readme"
+}
