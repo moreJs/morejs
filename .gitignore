@@ -23,5 +23,4 @@ node_modules
 dist
 *.css
 build
-lib
 _book
